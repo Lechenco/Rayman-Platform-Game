@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 53f5624c6da77046586e196a47d181f8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Sonic 2 HD - Spring_0
+    21300002: PC Computer - Sonic 2 HD - Spring_1
+    21300004: PC Computer - Sonic 2 HD - Spring_2
+    21300006: PC Computer - Sonic 2 HD - Spring_3
+    21300008: PC Computer - Sonic 2 HD - Spring_4
+    21300010: PC Computer - Sonic 2 HD - Spring_5
+    21300012: PC Computer - Sonic 2 HD - Spring_6
+    21300014: PC Computer - Sonic 2 HD - Spring_7
+    21300016: PC Computer - Sonic 2 HD - Spring_8
+    21300018: PC Computer - Sonic 2 HD - Spring_9
+    21300020: PC Computer - Sonic 2 HD - Spring_10
+    21300022: PC Computer - Sonic 2 HD - Spring_11
+    21300024: PC Computer - Sonic 2 HD - Spring_12
+    21300026: PC Computer - Sonic 2 HD - Spring_13
+    21300028: PC Computer - Sonic 2 HD - Spring_14
+    21300030: PC Computer - Sonic 2 HD - Spring_15
+    21300032: PC Computer - Sonic 2 HD - Spring_16
+    21300034: PC Computer - Sonic 2 HD - Spring_17
+    21300036: PC Computer - Sonic 2 HD - Spring_18
+    21300038: PC Computer - Sonic 2 HD - Spring_19
+    21300040: PC Computer - Sonic 2 HD - Spring_20
+    21300042: PC Computer - Sonic 2 HD - Spring_21
+    21300044: PC Computer - Sonic 2 HD - Spring_22
+    21300046: PC Computer - Sonic 2 HD - Spring_23
+    21300048: PC Computer - Sonic 2 HD - Spring_24
+    21300050: PC Computer - Sonic 2 HD - Spring_25
+    21300052: PC Computer - Sonic 2 HD - Spring_26
+    21300054: PC Computer - Sonic 2 HD - Spring_27
+    21300056: PC Computer - Sonic 2 HD - Spring_28
+    21300058: PC Computer - Sonic 2 HD - Spring_29
+    21300060: PC Computer - Sonic 2 HD - Spring_30
+    21300062: PC Computer - Sonic 2 HD - Spring_31
+    21300064: PC Computer - Sonic 2 HD - Spring_32
+    21300066: PC Computer - Sonic 2 HD - Spring_33
+    21300068: PC Computer - Sonic 2 HD - Spring_34
+    21300070: PC Computer - Sonic 2 HD - Spring_35
+    21300072: PC Computer - Sonic 2 HD - Spring_36
+    21300074: PC Computer - Sonic 2 HD - Spring_37
+    21300076: PC Computer - Sonic 2 HD - Spring_38
+    21300078: PC Computer - Sonic 2 HD - Spring_39
+    21300080: PC Computer - Sonic 2 HD - Spring_40
+    21300082: PC Computer - Sonic 2 HD - Spring_41
+    21300084: PC Computer - Sonic 2 HD - Spring_42
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1764
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ddb452fbac1ab6685dd038222c9335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1764
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7403e82fe7c27d42aa8e30a5d46b8d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1764
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee75b7d0114ade6d4bb46d2873a3d14e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1764
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ce033122287881b555c8bc1c0405b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1764
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce21460fbef4449bfadeebb28206f4eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1632
+        width: 128
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fc6e6e47dcc5fd8f83c92df4e84ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1632
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5082e95ef55eb767ab1b3f3453ad738e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1631
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391dfcfbea4505509f55ab83aad51dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1632
+        width: 128
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c5539c1450816bd8590e7105593546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1632
+        width: 128
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e1e7085bd5a17c9668f2664689fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1500
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f7329051871dc8a4dc7c6754a1ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1500
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101714718bf6d26618a2a7ce508ee8bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1348
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5210295, y: 1.0047092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c034b57c0f4a60ac393b717f473a57b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1348
+        width: 128
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5420592, y: 1.429885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538cb264425c5f9b2a47233f3770aa50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1348
+        width: 128
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5210297, y: 1.3613672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d08dd19e7331a0da3c2ea6d10c62f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1348
+        width: 128
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.6814692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6ef42e0292071788373fd038c7cd40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1180
+        width: 128
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.6712957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa193997d910f9629c4d0ff4df02d81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1180
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03d694eb6aab0a7a504453470006db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1180
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525eaad987f2058e8a66c2df99ab2f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1180
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.52102995, y: 0.39485455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfbba8fa929f3ee980c7d7a535f88a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1012
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa928dfee06c17dbaebdba45612a789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1012
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ff4c1769afbe546ae5602ea0a3e3ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1012
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e665df4340377e2918457381300ed6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1012
+        width: 128
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8945a832976a7ac5ea4ec6fc856c9f2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 844
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0866a3d8688352b89544ba10db83167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 844
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92355169b499b28b391990009c7deaae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 844
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead5e16d7e76b123eb9e6de72396a52e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_27
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 844
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbad86c398c04f2c9f4216e5d9b037d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 645
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba094c78f1546557a89c712cc370d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 645
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf8f74809846033829c15fff1d2a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 645
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef6058fbb0e31919b17a0835f09939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 645
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ebd1278779d04e979a18f95cf2a3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 438
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf489d55ce6676d2b5bcfaf0ced80e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 438
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8271dda1d714b8b1bb5bad848da3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 438
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57702f6efb8326ceab080ca9386f6855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 438
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea993321f9f36ed79778304db3a8622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 231
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb996dc6ef540c0eb7110f88683318e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 231
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26155296fc8c0f748ad9dc0c1ad2c61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 231
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4d182f08cc6f33b873a7f90e00baf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 231
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6118373b439c4663c966ce871e5c75f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c228300417ece305cae99fb4fb2205a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 24
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ce16cfc2d5f0638e2c77e94da22cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Spring_42
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 24
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb50cca0c68a20aa054a4029df50de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55421397f603fb623bf533f0cd01f804
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

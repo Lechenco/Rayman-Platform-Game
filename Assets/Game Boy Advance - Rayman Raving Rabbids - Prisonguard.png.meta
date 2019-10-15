@@ -1,0 +1,1163 @@
+fileFormatVersion: 2
+guid: 0904cf723198aade881d0a99154b526a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_0
+    21300002: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_1
+    21300004: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_2
+    21300006: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_3
+    21300008: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_4
+    21300010: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_5
+    21300012: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_6
+    21300014: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_7
+    21300016: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_8
+    21300018: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_9
+    21300020: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_10
+    21300022: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_11
+    21300024: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_12
+    21300026: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_13
+    21300028: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_14
+    21300030: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_15
+    21300032: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_16
+    21300034: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_17
+    21300036: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_18
+    21300038: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_19
+    21300040: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_20
+    21300042: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_21
+    21300044: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_22
+    21300046: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_23
+    21300048: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_24
+    21300050: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_25
+    21300052: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_26
+    21300054: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_27
+    21300056: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_28
+    21300058: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_29
+    21300060: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_30
+    21300062: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_36
+    21300064: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_41
+    21300066: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_42
+    21300068: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_43
+    21300070: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_44
+    21300072: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_45
+    21300074: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_46
+    21300076: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_47
+    21300078: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_48
+    21300080: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_49
+    21300082: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_50
+    21300084: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_51
+    21300086: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_52
+    21300088: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_53
+    21300090: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_54
+    21300092: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_55
+    21300094: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_56
+    21300096: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_57
+    21300098: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_58
+    21300100: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_59
+    21300102: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_60
+    21300104: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_61
+    21300106: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_62
+    21300108: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_63
+    21300110: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_64
+    21300112: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_65
+    21300114: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_66
+    21300116: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_67
+    21300118: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_68
+    21300120: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_31
+    21300122: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_32
+    21300124: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_33
+    21300126: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_34
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 376
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb005eb468ed431bbecd2e72108c175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 376
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fcc296bf40e551dba44150d164bb6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 376
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e853e9bcfaef7c5ca2099bfca83e779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 376
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce69f43daa42779d80bbc4a0274612c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee966d3bcc9448369a04f1cf0a7ba1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 303
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c032338b5025d84a8ba5a45ccdb3bdf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 303
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86651de0dc03200cfab2c0759cffff1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 304
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f99152eb74c44fb8f5f22c071f07c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 304
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8dc757f001b93e0bed6fb5f4f56104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7c33d4771c18e99356f50fc898e7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 303
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979717c9bf98bfcc8371687fe2bcfbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f575c20b4b3526bb788aee8cf301ba6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 231
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a153fe430cf39bd90a21aa02224de3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 231
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a156433d387072785983a67fe9d7d9f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 231
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7c1ffe0aed5505faaed56f77808528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 231
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92006f3e92268ad11abf9b401f050e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 231
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e44517e673ab4188ec0089e74f24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6a366f2c2e726a7ac5a8140fb442ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c99941e8d513d8ba3494e9990efe34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 148
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d346f4b97f7859c959dd31846a714c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 148
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bfa449ecc70d4a4b6edf27ae6b0d62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 148
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a585ee418492cea315cf5a99910cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 148
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d757430541d825c8324a52b63a995d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 148
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2589a4b50ed807581153473166fac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8775924ee9cf9bbf59768d723c200503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6210c6e9973450aa3af770e4a3a21fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 76
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16a600c04f4f0869d7f75f93938a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665be91ddcf6de6fb892678fd46a4db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 76
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d115cf16e68bc2858dd8bbc1bce0c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1cb26b6a5e9cb88ae1c1b5ad3633e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d20be1678148ef289d75c19011ac43c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7939c3043949bbe585fce8fa12eccba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a97dff8460d0db90af29f0836f1b3bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 47
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83594d448f68a08590ee3971bd76cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c610b7b7e57f4d3becff501d883110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 57
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd0deb3bf548ab99ba85853e96ad24b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 63
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ddf7eab0d3ae35954a6720be0aaef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 71
+        width: 67
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5539378, y: 0.9713679}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839fe7ffcba9e7da8a1ad2af2f5bac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_60
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 41
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef357871a8e7d18bbc40f6053b0093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 14
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ecb1257efb78c985bb61878c0dcdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a448b74db9b1c63aea200b0d52e756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 15
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b87fc3bf2728c8eb4a65921e4529db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_64
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20339bd34eb8332a888bcde3e26d6c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_65
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 48
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d315eadd014bd280f4800a9124d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_66
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 37
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ed0c5fb011ff83a5e2d8a2d9dc8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_67
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19bbfd13f6288a1cb728452ec8224d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 7
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4800118ca38060591b94c813bcca6bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc370cbd6f9eb3e89c1256667ad1696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 6
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea450ce4f5e75bfa92951d042b40ca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Prisonguard_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 72
+        width: 63
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5344175, y: 0.8516149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae245ca3960868e688d849402329b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e07aa72209236e7c9028a129747a337
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
